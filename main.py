@@ -18,3 +18,4 @@ def main(bombs, rows, cols):
     # return field
 
 print(main([[0,0], [1,2]], 3, 4))
+#terst
